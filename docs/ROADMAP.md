@@ -2,8 +2,8 @@
 
 ## Phase 1 — Project Setup 🔄 (Current)
 - [x] Folder structure created
-- [ ] GitHub repository
-- [ ] Next.js initialized
+- [x] GitHub repository
+- [x] Next.js initialized
 - [ ] FastAPI initialized
 - [ ] Supabase project created
 - [ ] Both servers running locally
